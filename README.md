@@ -41,8 +41,8 @@
 
 ### Target Corporation - Interactive Developer
 #### Minneapolis, MN
-#### September 2011 - November 2011 (contract)
 #### November 2011 - December 2014 (employee)
+#### September 2011 - November 2011 (contract)
 * Educated and adhered to WCAG 2.0 AA accessibility standards.
 * Integrated enterprise-scale applications with Akamai.
 * Created development environments for large projects with multiple developers.
