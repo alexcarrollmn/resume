@@ -5,6 +5,26 @@
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
 ## Professional Experience
+### Skillset
+* Front-end development
+* SaaS / PaaS / Cloud
+* gulp.js / grunt.js
+* Node.js
+* Angular.js
+* React.js
+* Express.js
+* MongoDB
+* MySQL
+* JSP
+* HTML5
+* ES6
+* Javascript
+* jQuery
+* Bootstrap
+* SCSS
+* PHP
+* git / github
+
 ### IBM Corporation - Software Engineer
 #### Austin, TX - San Diego, CA
 #### January 2015 - Present
@@ -34,11 +54,11 @@
 * Produced training videos on the basics of HTML and CSS for clients and students.
 
 ## Projects
-* watson.analytics.ibmcloud.com - lead dev
-* www.target.ca - lead dev (may she rest in peace)
-* cartwheel.target.com - lead dev
-* www.bluemix.net
-* explore.target.com
+* [watson.analytics.ibmcloud.com](http://watson.analytics.ibmcloud.com) - lead dev
+* [http://www.target.ca](www.target.ca) - lead dev (may she rest in peace)
+* [cartwheel.target.com](http://cartwheel.target.com) - lead dev
+* [www.bluemix.net](www.bluemix.net)
+* [http://explore.target.com](explore.target.com)
 
 ## Extracurriculars
 * ng-conf, 2015
