@@ -60,10 +60,10 @@
 
 ## Projects
 * [watson.analytics.ibmcloud.com](http://watson.analytics.ibmcloud.com) - lead dev
-* [http://www.target.ca](www.target.ca) - lead dev (may she rest in peace)
+* [www.target.ca](http://www.target.ca) - lead dev (may she rest in peace)
 * [cartwheel.target.com](http://cartwheel.target.com) - lead dev
-* [www.bluemix.net](www.bluemix.net)
-* [http://explore.target.com](explore.target.com)
+* [www.bluemix.net](http://www.bluemix.net)
+* [explore.target.com](http://explore.target.com)
 
 ## Extracurriculars
 * ng-conf, 2015
