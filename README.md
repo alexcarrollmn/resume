@@ -24,6 +24,11 @@
 * SCSS
 * PHP
 * git / github
+* WCAG 2.0 AA
+* agile methodology
+* Jenkins
+* Akamai
+* WordPress
 
 ### IBM Corporation - Software Engineer
 #### Austin, TX - San Diego, CA
