@@ -48,7 +48,7 @@
 * Created development environments for large projects with multiple developers.
 * Set up complex production environments for enterprise websites.
 * Lead development teams on agile projects, mentored junior developers, collaborated with design teams.
-* Refactored legacy codebases when needed.=
+* Refactored legacy codebases when needed.
 
 ### Grandpa-George - Sr. Web Development Intern
 #### Minneapolis, MN
