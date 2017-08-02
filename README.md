@@ -5,11 +5,10 @@
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
 ## Me
-I do not consider myself a front-end developer. I do not consider myself a back-end developer. I hate the term "full-stack," but it best describes me. I live for working on the foundation of an application - large components of the front-end, API calls and responses, build scripts, deploy scripts, accessibility, routes. I try not to pigeon-hole myself into the latest and greatest frameworks; I use them when appropriate. I care more about the user than I do about the business and will be the user's champion. I suffer from imposter syndrome at times. I love taking junior developers under my wing and challenging them to grow. I am not just a developer, I am so much more. Let's chat.
+I do not consider myself a front-end developer. I do not consider myself a back-end developer. I hate the term "full-stack," but it best describes me. I live for working on the foundation of an application - large components of the front-end, API calls and responses, build scripts, deploy scripts, accessibility, routes. I try not to pigeon-hole myself into the latest and greatest frameworks; I use them when appropriate. I care more about the user than I do about the business and will be the user's champion, for without the user there is no business. I suffer from imposter syndrome at times. I love taking junior developers under my wing and challenging them to grow. I am not just a developer, I am so much more. Let's chat.
 
 ## Professional Experience
 ### Skillset
-* Front-end development
 * SaaS / PaaS / Cloud
 * gulp.js / grunt.js
 * Node.js
@@ -29,12 +28,9 @@ I do not consider myself a front-end developer. I do not consider myself a back-
 * git / github
 * WCAG 2.0 AA
 * agile methodology
-* Jenkins
-* Akamai
-* WordPress
 
 ### IBM Corporation - Software Engineer
-#### Austin, TX - San Diego, CA
+#### Austin, TX - San Diego, CA (remote)
 #### January 2015 - Present
 * Digest complex business requirements.
 * Write accessible code, lead accessibility in development.
