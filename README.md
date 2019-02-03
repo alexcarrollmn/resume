@@ -1,77 +1,47 @@
-# Alex Carroll
-## Software Engineer
-### San Diego, CA
+# Alex Carroll 
+## Senior Software Engineer
 ### alexcarroll.mn@gmail.com
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
-## Me
-I do not consider myself a front-end developer. I do not consider myself a back-end developer. I hate the term "full-stack," but it best describes me. I live for working on the foundation of an application - large components of the front-end, API calls and responses, build scripts, deploy scripts, accessibility, routes. I try not to pigeon-hole myself into the latest and greatest frameworks; I use them when appropriate. I care more about the user than I do about the business and will be the user's champion, for without the user there is no business. I suffer from imposter syndrome at times. I love taking junior developers under my wing and challenging them to grow. I am not just a developer, I am so much more. Let's chat.
+> I am a Senior Front-end Engineer with a passion for good design and user experience. I have experience in the latest modern frameworks, including Angular and React and strive to write clean, tested and accessible code. I have worked in many different environments: Node, PHP, and exposure to Java projects and have had experience using AWS, Heroku, Rackspace, and Bluemix. 
+>
+>I have been successfully working remotely for over three years.
 
-## Professional Experience
-### Skillset
-* SaaS / PaaS / Cloud
-* gulp.js / grunt.js
-* Node.js
-* Angular.js
-* React.js
-* Express.js
-* MongoDB
+### Knowledge
+* Angular
+* React
+* Express
+* Grunt/Gulp/Webpack
+* Node
 * MySQL
-* JSP
-* HTML5
-* ES6
-* Javascript
-* jQuery
-* Bootstrap
-* SCSS
-* PHP
-* git / github
+* MongoDB
+* Jenkins
 * WCAG 2.0 AA
-* agile methodology
+* ES6, HTML5, CSS3/SCSS
 
-### IBM Corporation - Software Engineer
-#### Austin, TX - San Diego, CA (remote)
-#### January 2015 - Present
-* Digest complex business requirements.
-* Write accessible code, lead accessibility in development.
-* Develop front-end and middleware for a PaaS solution, a global financial system, and an analytics engine.
-* Lead technical work in multi-disciplinary, multi-national agile teams, mentor junior developers, plan sprints.
-* Perform code reviews and merge pull requests.
+### Experience
+#### Data Recognition Corporation
+Minneapolis, MN - Remote
 
-### Target Corporation - Interactive Developer
-#### Minneapolis, MN
-#### November 2011 - December 2014 (employee)
-#### September 2011 - November 2011 (contract)
-* Educated and adhered to WCAG 2.0 AA accessibility standards.
-* Integrated enterprise-scale applications with Akamai.
-* Created development environments for large projects with multiple developers.
-* Set up complex production environments for enterprise websites.
-* Lead development teams on agile projects, mentored junior developers, collaborated with design teams.
-* Refactored legacy codebases when needed.
+November 2017 - Present
+* Manage and lead development on applications with up to 15,000 requests/minute from managed devices supporting 1.2 million concurrent users.
+* Support applications on Windows, Linux, Macintosh.
+* Perform code reviews and write unit tests for all new work.
+* Manage build and deploy jobs through Jenkins
 
-### Grandpa-George - Sr. Web Development Intern
-#### Minneapolis, MN
-#### August 2009 - September 2011
-* Developed both internal and client websites and HTML emails.
-* Created custom WordPress themes.
-* Kept track of hours worked on projects to task level.
-* Produced training videos on the basics of HTML and CSS for clients and students.
+#### IBM
+Austin, TX and Remote
 
-## Projects
-* [watson.analytics.ibmcloud.com](http://watson.analytics.ibmcloud.com) - lead dev
-* [www.target.ca](http://www.target.ca) - lead dev (may she rest in peace)
-* [cartwheel.target.com](http://cartwheel.target.com) - lead dev
-* [www.bluemix.net](http://www.bluemix.net)
-* [explore.target.com](http://explore.target.com)
+January 2015 - November 2017
+* Cultivated relationships with distributed, multi-national teammates.
+* Became resource for Accessibility concerns and consulted on WCAG 2.0 AA.
+* Led front-end development in Agile teams, mentored junior developers, identified a need for and started a collaborative learning environment for front-end developers, attended recruitment events and interviewed and made hiring recommendations.
+* Worked on several high visibility projects: Watson Analytics marketing website – lead developer, IBM Bluemix – user portal and marketing website, IBM Planning Analytics.
 
-## Extracurriculars
-* ng-conf, 2015
-* CSS Dev Conf, 2015
-* Fluent Conference, 2015
-* Midwest.js - 2014
-* Overnight Web Challenge 2009, 2012
-* Flashbelt/eye-o conference 2009, 2010
+#### Target
+Minneapolis, MN
 
-## Education
-### Art Institutes International Minnesota
-* B.A.S - Web Design and Interactive Media, 2011
+September 2011 - December 2014
+* Led work effort on highly trafficked websites and applications with up to 35 million unique weekly visits: Target Cartwheel, Target.ca, Target Registry, Target.com homepage.
+* Became expert on WCAG 2.0 AA web accessibility standards and worked with accessibility teams to ensure all applications met those standards.
+* Increased return trips and total purchases for users of Target Cartwheel.
