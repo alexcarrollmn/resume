@@ -4,7 +4,7 @@
 ### alexcarroll.mn@gmail.com
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
-> I am a Senior Front-end Engineer with a passion for good design and user experience. I have experience in the latest modern frameworks, including Angular and React and strive to write clean, tested and accessible code. I have worked in many different environments: Node, PHP, and exposure to Java projects and have had experience using AWS, Heroku, Rackspace, and Bluemix. 
+> I am a seasoned Front-end Engineer with a passion for good design and user experience. I have experience in the latest modern frameworks, including Angular and React and strive to write clean, tested and accessible code. I have been through the trenches and know when, but most importantly, when not to use certain technologies. I have worked in many different environments: Node, PHP, and exposure to Java projects and have experience using AWS, Heroku, Rackspace, and Bluemix. 
 >
 >I have been successfully working remotely for over three years.
 
@@ -25,10 +25,10 @@
 Minneapolis, MN - Remote
 
 November 2017 - Present
-* Manage and lead development on applications with up to 15,000 requests/minute from managed devices supporting 1.2 million concurrent users.
-* Support applications on Windows, Linux, Macintosh.
+* Manage and lead development on applications with up to 15,000 requests/minute from managed devices supporting 1.4 million daily, and 300k concurrent users.
+* Support mission critical applications on Windows, Linux, Macintosh.
 * Perform code reviews and write unit tests for all new work.
-* Manage build and deploy jobs through Jenkins
+* Manage build and deploy jobs through Jenkins and Puppet.
 
 #### IBM
 Austin, TX and Remote
