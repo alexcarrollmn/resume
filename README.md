@@ -1,5 +1,6 @@
 # Alex Carroll 
 ## Senior Software Engineer
+### San Diego, CA
 ### alexcarroll.mn@gmail.com
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
