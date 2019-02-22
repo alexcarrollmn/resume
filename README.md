@@ -4,9 +4,9 @@
 ### alexcarroll.mn@gmail.com
 ### [https://www.linkedin.com/in/alexcarrollmn/](https://www.linkedin.com/in/alexcarrollmn/)
 
-> I am a seasoned Front-end Engineer with a passion for good design and user experience. I have experience in the latest modern frameworks, including Angular and React and strive to write clean, tested and accessible code. I have been through the trenches and know when, but most importantly, when not to use certain technologies. I have worked in many different environments: Node, PHP, and exposure to Java projects and have experience using AWS, Heroku, Rackspace, and Bluemix. 
+> I am a seasoned front-end engineer with a passion for good design and user experience. I have experience in the latest modern frameworks, including Angular and React, and strive to write clean, tested and accessible code. I know when, and perhaps most importantly, when not to use certain technologies. For the last three years I have been successfully working remotely as an individual contibutor and am looking forward to a role where I can help a team bring ideas to reality.
 >
->I have been successfully working remotely for over three years.
+>
 
 ### Knowledge
 * Angular
@@ -19,6 +19,7 @@
 * Jenkins
 * WCAG 2.0 AA
 * ES6, HTML5, CSS3/SCSS
+* AWS, Heroku, Rackspace, Bluemix
 
 ### Experience
 #### Data Recognition Corporation
